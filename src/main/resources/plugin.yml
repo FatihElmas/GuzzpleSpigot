@@ -1,0 +1,5 @@
+name: Guzzple
+version: ${project.version}
+main: co.guzzple.guzzple.Guzzple
+api-version: 1.16
+authors: [ FatihElmas ]
